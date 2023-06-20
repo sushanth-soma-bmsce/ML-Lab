@@ -1,0 +1,15 @@
+age,income,student,Credit rating,Buys computer
+young,high,no,fair,no
+young,high,no,excellent,no
+old,high,no,fair,yes
+old,medium,no,fair,yes
+old,low,yes,fair,yes
+middle,low,yes,excellent,no
+young,low,yes,excellent,yes
+young,medium,no,fair,no
+old,low,yes,fair,yes
+young,medium,yes,fair,yes
+middle,medium,yes,excellent,yes
+middle,medium,no,excellent,yes
+old,high,yes,fair,yes
+middle,medium,no,excellent,no
